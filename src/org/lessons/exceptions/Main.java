@@ -11,7 +11,7 @@ public class Main {
 		
 		
 		//Declaring variables
-		int booksNumber = 2;
+		int booksNumber = 5;
 		Book[] books = new Book[booksNumber];
 		String booksData = "";
 		
