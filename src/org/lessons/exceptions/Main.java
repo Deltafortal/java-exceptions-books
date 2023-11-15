@@ -11,12 +11,12 @@ public class Main {
 		
 		
 		//Declaring variables
-		int booksNumber = 5;
+		int booksNumber = 1;
 		Book[] books = new Book[booksNumber];
 		String booksData = "";
 		
 		Scanner in = new Scanner(System.in);
-		File booksFile = new File("C:\\Users\\Utente\\Programming\\Java\\Esperis\\esercizi\\java-exceptions-books\\src\\assets/booksList.txt");
+		File booksFile = new File("src/assets/booksList.txt");
 		
 		
 		Scanner reader = null;
